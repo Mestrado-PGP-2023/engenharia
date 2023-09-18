@@ -1,4 +1,4 @@
-# engenharia
+# Projeto de Gerenciamento de Vagas de Estágio/Práticas
 Projeto de implementação de ferramenta de gerenciamento de vagas de estágio, atividades práticas, ligas acadêmicas, atividades de extensão e rodízios de residentes no Hospital das Clínicas da Universidade Federal de Pernambuco (HC-UFPE).
 
 Contém os artefatos das seguintes disciplinas:
